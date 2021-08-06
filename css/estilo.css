@@ -1,0 +1,29 @@
+@charset "UF8-";
+
+table {
+    width: 100%;
+    height: 100%;
+    margin-bottom: .3m;
+    table-layout: fixed;
+    text-align: center;
+    border: 2px solid #000000;
+}
+
+th {
+    background-color: #2F2F2F;
+    border: 1px solid #000000;
+    color: #fff;
+}
+
+td {
+    border: 1px solid #000000;
+    padding: 3px;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+b {
+    color: #DC7F9B;
+}
